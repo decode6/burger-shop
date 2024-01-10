@@ -19,7 +19,7 @@ const Banner = () => {
                   className="max-w-[430px] w-full mx-auto drop-shadow-[-10px_10px_12px_rgba(0,0,0,1)]"
                 />
               </div>
-              {/* text content section */}
+            
               <div className="flex flex-col justify-center gap-6 sm:pt-0">
                 <h1
                   data-aos="fade-up"
