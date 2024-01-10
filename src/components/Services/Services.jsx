@@ -14,7 +14,7 @@ const ServicesData = [
   {
     id: 2,
     img: Img3,
-    name: "Chiken Burger",
+    name: "Chicken Burger",
     description:
       "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
     aosDelay: "300",
