@@ -18,7 +18,7 @@ const ImageList = [
     img: BiryaniImg3,
   },
 ];
-
+//hero section updated
 const Hero = () => {
   const [imageId, setImageId] = React.useState(BiryaniImg1);
 
