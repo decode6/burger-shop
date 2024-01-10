@@ -17,6 +17,7 @@ const App = () => {
       delay: 100,
     });
   });
+  //Render Components
   return (
     <>
       <Navbar />
