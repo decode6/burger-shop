@@ -23,6 +23,8 @@ const Menu = [
     link: "/#services",
   },
 ];
+
+//Navbar Section Updated
 const Navbar = () => {
   return (
     <>
