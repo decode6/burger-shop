@@ -1,1 +1,1 @@
-https://decode-burgershop.netlify.app
+https://decode-burgershop.netlify.app/
