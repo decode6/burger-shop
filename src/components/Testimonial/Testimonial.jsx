@@ -1,7 +1,7 @@
 import React from "react";
 import Slider from "react-slick";
 import HeaderTitle from "../HeaderTitle/HeaderTitle";
-//Testimonial
+//Test
 
 const settings = {
   dots: false,
